@@ -173,6 +173,3 @@ If you encounter issues:
 - **`README.md`**: This documentation file
 
 ---
-
-**Made by TAPS Holdings**
-
