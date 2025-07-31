@@ -1,4 +1,4 @@
-# FNF Turbo Bot
+# Funky Friday Bot
 
 An automated note detection and key pressing bot for rhythm games like Friday Night Funkin'. Detects colored notes on screen and automatically presses the corresponding keys with configurable timing and accuracy.
 
